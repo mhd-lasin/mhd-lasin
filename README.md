@@ -2,16 +2,13 @@
 
 <!-- ANIMATED TYPING BANNER -->
 <a href="https://lasin.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=920&lines=MUHAMED+LASIN;FULL-STACK+DEVELOPER+%26+ENTERPRISE+SYSTEM+ARCHITECT;ERP+%E2%80%A2+AUDIT+SYSTEMS+%E2%80%A2+HRMS+%E2%80%A2+REAL-TIME+CRM+%E2%80%A2+AI+AUTOMATION;REACT+19+%E2%80%A2+VUE+3+%E2%80%A2+FASTAPI+%E2%80%A2+PHP+%E2%80%A2+PYTHON+%E2%80%A2+NODE.JS+%E2%80%A2+LARAVEL;BUILDING+SCALABLE+COMPLIANCE-READY+SOFTWARE+IN+DUBAI%2C+UAE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=940&lines=MUHAMED+LASIN;FULL-STACK+DEVELOPER+%26+ENTERPRISE+SYSTEM+ARCHITECT;ERP+%E2%80%A2+HRMS+%E2%80%A2+REAL-TIME+CRM+%E2%80%A2+AUDIT+SYSTEMS+%E2%80%A2+LINUX+VPS+INFRASTRUCTURE;REACT+19+%E2%80%A2+VUE+3+%E2%80%A2+FASTAPI+%E2%80%A2+PHP+%E2%80%A2+PYTHON+%E2%80%A2+NODE.JS+%E2%80%A2+LARAVEL;AI-NATIVE+WORKFLOWS%3A+CLAUDE+CODE+%E2%80%A2+ANTIGRAVITY+%E2%80%A2+CURSOR+%E2%80%A2+CODEX+%E2%80%A2+COPILOT" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL, PORTFOLIO & LIVE PRODUCTION LINKS BAR -->
+<!-- LIVE ENTERPRISE PRODUCTION LINKS BAR -->
 <p align="center">
   <a href="https://lasin.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-lasin.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://audit.afamiasoft.com">
-    <img src="https://img.shields.io/badge/🛡️_Audit_Engine-audit.afamiasoft.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Audit Platform" />
   </a>
   <a href="https://afamia.afamiasoft.com">
     <img src="https://img.shields.io/badge/🏦_Accounting_ERP-afamia.afamiasoft.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Accounting ERP" />
@@ -19,8 +16,15 @@
   <a href="https://hrbmc.afamiasoft.com">
     <img src="https://img.shields.io/badge/👥_HRMS_Platform-hrbmc.afamiasoft.com-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HRMS Platform" />
   </a>
+  <a href="https://crm.afamiasoft.com">
+    <img src="https://img.shields.io/badge/📈_Live_CRM-crm.afamiasoft.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CRM Platform" />
+  </a>
+  <a href="https://audit.afamiasoft.com">
+    <img src="https://img.shields.io/badge/🛡️_Audit_Engine-audit.afamiasoft.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Audit Platform" />
+  </a>
 </p>
 
+<!-- SOCIAL & DIRECT CONTACT BAR -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamed-lasin">
     <img src="https://img.shields.io/badge/LinkedIn-Muhamed_Lasin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -38,8 +42,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dubai,_United_Arab_Emirates_🇦🇪-10B981?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise_ERP_•_AuditTech_•_HRMS_•_CRM_•_AI_Automation-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Architecting_Production_Systems-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise_ERP_•_HRMS_•_CRM_•_AuditTech_•_Linux_VPS-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Workflow-Claude_Code_•_Antigravity_•_Cursor_•_Codex_•_Copilot-F59E0B?style=flat-square" />
 </p>
 
 </div>
@@ -51,12 +55,12 @@
 <table width="100%">
   <tr>
     <td width="72%" valign="middle">
-      <p>I am a passionate <b>Full-Stack Software Developer</b> based in <b>Dubai, United Arab Emirates</b>, specializing in architecting and scaling high-performance enterprise business applications—including <b>Perpetual & Service Accounting ERPs, Financial Auditing Engines, UAE Labor Law-Compliant HRMS Platforms, Next-Gen Real-Time CRMs, and Centralized Supply Chain ERPs</b> for UAE and Gulf region businesses.</p>
-      <p>With a strong foundation in modern web technologies, I specialize in transforming complex operational problems into elegant, user-centric, and compliance-ready software. I architect dynamic frontend SPAs and interfaces using <b>React 19, TypeScript, Vue 3, Nuxt, Ant Design, Redux Toolkit, Vuetify, and Tailwind CSS</b>, backed by high-concurrency server-side APIs built in <b>PHP, FastAPI, Python, Node.js, Express.js, Laravel, and Django</b> over <b>MySQL, PostgreSQL, and MongoDB</b>.</p>
+      <p>I am a passionate <b>Full-Stack Software Developer & Infrastructure Architect</b> based in <b>Dubai, United Arab Emirates</b>, specializing in architecting, deploying, and scaling mission-critical enterprise applications—including <b>Perpetual & Service Accounting ERPs, UAE Labor Law-Compliant HRMS Platforms, Next-Gen Real-Time CRMs, Centralized Supply Chain ERPs, and Financial Auditing Engines</b> for UAE and Gulf region businesses.</p>
+      <p>I architect dynamic frontend SPAs and interfaces using <b>React 19, TypeScript, Vue 3, Nuxt, Ant Design, Redux Toolkit, Vuetify, and Tailwind CSS</b>, backed by high-concurrency server-side APIs built in <b>PHP, FastAPI, Python, Node.js, Express.js, Laravel, and Django</b> over <b>MySQL, PostgreSQL, MongoDB, and Redis</b>.</p>
       <ul>
-        <li>🏗️ <b>Enterprise ERP & SaaS Architecture:</b> End-to-end Procure-to-Pay (P2P) & Order-to-Cash (O2C) cycles, multi-warehouse perpetual inventory, UAE VAT compliance, and UAE Labor Law payroll/gratuity engines.</li>
-        <li>🤖 <b>AI Integration & Business Automation:</b> Building AI-powered document processing, automated report generation, smart analytics dashboards, and cron-driven workflow automation across accounting, HR, and CRM suites.</li>
-        <li>🔐 <b>Security, Licensing & DevOps:</b> Implementing Single Sign-On (SSO) authentication, hardware MAC address license activation, multi-tenant database schemas, Docker containerization, and Linux VPS / Apache server infrastructure.</li>
+        <li>🏗️ <b>Enterprise ERP & SaaS Architecture:</b> End-to-end Procure-to-Pay (P2P) & Order-to-Cash (O2C) cycles, multi-warehouse perpetual inventory, UAE VAT compliance, statutory audit engines, and UAE Labor Law payroll/gratuity systems.</li>
+        <li>🤖 <b>AI-Native Development & Business Automation:</b> Accelerating full-lifecycle software delivery using <b>Claude Code, Google Antigravity, Cursor, OpenAI Codex, and GitHub Copilot</b>, while embedding AI-powered document processing, smart analytics, and automated reporting directly into client platforms.</li>
+        <li>🖥️ <b>Production VPS Server & DevOps Administration:</b> Full command over unmanaged <b>Linux VPS servers (Ubuntu LTS / Hostinger VPS)</b>, Apache Virtual Hosts, SSL/TLS security, UFW firewall hardening, SSH provisioning, Docker containerization, SSO authentication, and hardware MAC license activation.</li>
       </ul>
     </td>
     <td width="28%" valign="middle" align="center">
@@ -79,8 +83,8 @@
       <sub><b>Years of Production Experience</b></sub>
     </td>
     <td width="25%" align="center">
-      <h2>15+</h2>
-      <sub><b>Core Technologies Mastered</b></sub>
+      <h2>20+</h2>
+      <sub><b>Technologies & AI Tools Mastered</b></sub>
     </td>
     <td width="25%" align="center">
       <h2>100%</h2>
@@ -91,15 +95,15 @@
 
 ---
 
-## 🏆 Proven Client Impact & Production Deployments
+## 🏆 Proven Client Impact & Live Production Deployments
 
 <table width="100%">
   <thead>
     <tr>
       <th width="20%" align="left">Client / Organization</th>
-      <th width="25%" align="left">Platform Delivered</th>
+      <th width="28%" align="left">Platform Delivered & Live URL</th>
       <th width="18%" align="left">Industry & Region</th>
-      <th width="37%" align="left">Measured Business Impact</th>
+      <th width="34%" align="left">Measured Business Impact</th>
     </tr>
   </thead>
   <tbody>
@@ -117,7 +121,7 @@
     </tr>
     <tr>
       <td><b>🏢 BTC</b></td>
-      <td>Next-Gen Real-Time CRM Platform</td>
+      <td>Next-Gen Real-Time CRM Platform<br /><sub><a href="https://crm.afamiasoft.com">crm.afamiasoft.com</a></sub></td>
       <td>Trading & Sales (UAE)</td>
       <td>📈 <b>+30% Sales Conversion</b> via interactive React 19 + Socket.IO Kanban deal pipelines</td>
     </tr>
@@ -134,53 +138,31 @@
 
 ## 🏛️ Enterprise Architecture & Flagship Systems (Live Production Builds)
 
-> *Below is an architectural deep-dive into the flagship enterprise platforms I have engineered and deployed across the UAE & GCC.*
-
-<!-- 01. LIVE AUDIT PLATFORM -->
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🛡️ 01. Financial Auditing & Assurance Engine — <a href="https://audit.afamiasoft.com"><code>audit.afamiasoft.com</code></a></h3>
-      <p><b>Category:</b> AuditTech / Financial Compliance & Statutory Assurance &nbsp;|&nbsp; <b>Status:</b> Live Production Platform</p>
-      <p>Architected and deployed an end-to-end <b>Financial Auditing & Assurance Platform</b> designed for auditing firms, chartered accountants, and enterprise finance teams to automate voucher reconciliation, discrepancy detection, and statutory audit compliance across the UAE.</p>
-      <ul>
-        <li><b>Voucher Reconciliation & Discrepancy Detection:</b> Automated cross-examination of general ledgers, journal vouchers, and trial balances with intelligent discrepancy flagging and debit/credit parity verification.</li>
-        <li><b>Automated Trial Balance & Working Paper Workflows:</b> Built structured pipelines to ingest raw client trial balances, map chart-of-accounts to lead schedules, and generate standardized digital working papers with dynamic formulas.</li>
-        <li><b>Immutable Ledger Audit Trails & Statutory Statements:</b> Complete multi-level review sign-offs, immutable audit logs, and automated generation of IFRS-compliant Balance Sheets, P&L Statements, Cash Flows, and UAE VAT / Corporate Tax schedules.</li>
-      </ul>
-      <p>
-        <a href="https://audit.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Live_Platform-audit.afamiasoft.com-059669?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Engine-Voucher_Reconciliation-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-Immutable_Audit_Trails-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Compliance-UAE_Tax_%26_IFRS-F59E0B?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+> *Below is an architectural deep-dive into the 5 flagship enterprise systems I have engineered and deployed on production servers across the UAE & GCC.*
 
 <table width="100%">
   <tr>
-    <!-- 02. PERPETUAL & SERVICE ACCOUNTING ERP -->
+    <!-- 01. PERPETUAL & SERVICE ACCOUNTING ERP -->
     <td width="50%" valign="top">
-      <h3>🏦 02. Perpetual & Service Accounting ERP — <a href="https://afamia.afamiasoft.com"><code>afamia.afamiasoft.com</code></a></h3>
+      <h3>🏦 01. Perpetual & Service Accounting ERP — <a href="https://afamia.afamiasoft.com"><code>afamia.afamiasoft.com</code></a></h3>
       <p><b>Category:</b> Enterprise ERP · Dual-Model Financial Suite (AFAMIA)</p>
       <p>Dual-model accounting ERP suites custom-tailored for UAE product-trading, service-based, and specialized automotive garage businesses.</p>
       <ul>
         <li><b>Perpetual Inventory Lifecycle:</b> Full multi-warehouse stock lifecycle covering Goods Receipt Notes (GRN), Delivery Notes, Stock Reconciliation, and real-time Inventory Valuation.</li>
-        <li><b>Service & Garage ERP Mode:</b> Lean, zero-inventory financial management, job card billing, AP/AR aging analysis, and multi-currency (AED) general ledgers.</li>
+        <li><b>Service & Garage ERP Mode:</b> Lean, zero-inventory financial management, automotive job card billing, AP/AR aging analysis, and multi-currency (AED) general ledgers.</li>
         <li><b>Full P2P & O2C Financial Cycles:</b> End-to-end Procure-to-Pay and Order-to-Cash workflows with automated UAE VAT tax calculations, real-time Trial Balance, and P&L statements.</li>
         <li><b>Enterprise Security & Licensing:</b> Custom Single Sign-On (SSO) authentication and hardware MAC address license activation.</li>
       </ul>
       <p>
-        <a href="https://afamia.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Live_ERP-afamia.afamiasoft.com-7C3AED?style=flat-square" /></a>
+        <a href="https://afamia.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Live_ERP-afamia.afamiasoft.com-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/PHP_%26_MySQL-005C84?style=flat-square" />
         <img src="https://img.shields.io/badge/UAE_VAT-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/SSO_%26_MAC_Licensing-EF4444?style=flat-square" />
       </p>
     </td>
-    <!-- 03. ENTERPRISE HRMS & PAYROLL -->
+    <!-- 02. ENTERPRISE HRMS & PAYROLL -->
     <td width="50%" valign="top">
-      <h3>👥 03. Enterprise HRMS & Payroll System — <a href="https://hrbmc.afamiasoft.com"><code>hrbmc.afamiasoft.com</code></a></h3>
+      <h3>👥 02. Enterprise HRMS & Payroll System — <a href="https://hrbmc.afamiasoft.com"><code>hrbmc.afamiasoft.com</code></a></h3>
       <p><b>Category:</b> Business Applications · HR & Payroll Automation (BMC)</p>
       <p>A comprehensive HR Management & Payroll Platform built from the ground up to enforce <b>UAE Labor Law</b> regulations for 500+ active users.</p>
       <ul>
@@ -190,7 +172,7 @@
         <li><b>Full Employee Lifecycle:</b> End-to-end recruitment pipelines (interviews to offer/joining letters), employee directories, absence approval workflows, and performance appraisals.</li>
       </ul>
       <p>
-        <a href="https://hrbmc.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Live_HRMS-hrbmc.afamiasoft.com-DB2777?style=flat-square" /></a>
+        <a href="https://hrbmc.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Live_HRMS-hrbmc.afamiasoft.com-DB2777?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/PHP_%26_MySQL-005C84?style=flat-square" />
         <img src="https://img.shields.io/badge/Cron_Automation-F59E0B?style=flat-square" />
         <img src="https://img.shields.io/badge/UAE_Labor_Law-8B5CF6?style=flat-square" />
@@ -198,26 +180,26 @@
     </td>
   </tr>
   <tr>
-    <!-- 04. NEXT-GEN CRM PLATFORM -->
+    <!-- 03. NEXT-GEN CRM PLATFORM -->
     <td width="50%" valign="top">
-      <h3>📈 04. Next-Gen Real-Time CRM Platform (BTC)</h3>
-      <p><b>Category:</b> Business Applications · Real-Time Sales SPA</p>
+      <h3>📈 03. Next-Gen Real-Time CRM Platform — <a href="https://crm.afamiasoft.com"><code>crm.afamiasoft.com</code></a></h3>
+      <p><b>Category:</b> Business Applications · Real-Time Sales SPA (BTC)</p>
       <p>A high-performance Single-Page Application built with <b>React 19, TypeScript, Ant Design, and Redux Toolkit</b>, backed by a high-speed <b>PHP REST API</b>.</p>
       <ul>
         <li><b>Interactive Kanban Sales Pipeline:</b> Drag-and-drop deal stages for rapid lead conversion, contact management, activity logging, and predictive sales forecasting.</li>
-        <li><b>Socket.IO Real-Time Engine:</b> Instant WebSocket notifications, live deal updates, and collaborative pipeline syncing across sales teams.</li>
+        <li><b>Socket.IO Real-Time Engine:</b> Instant WebSocket notifications, live deal updates, and collaborative pipeline syncing across sales teams without page reloads.</li>
         <li><b>Visual Analytics & Localization:</b> Rich Leads & Revenue analytics dashboards built with <b>Recharts</b>, full <b>Arabic/English (i18next)</b> localization, and client-side PDF/Excel report exports.</li>
       </ul>
       <p>
+        <a href="https://crm.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Live_CRM-crm.afamiasoft.com-0284C7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/React_19_+_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Ant_Design_+_Redux-0170FE?style=flat-square" />
-        <img src="https://img.shields.io/badge/Socket.IO_+_Recharts-010101?style=flat-square" />
-        <img src="https://img.shields.io/badge/i18next_AR%2FEN-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/AntD_+_Redux-0170FE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Socket.IO_+_i18next-010101?style=flat-square" />
       </p>
     </td>
-    <!-- 05. SAFETY POWER UAE ERP -->
+    <!-- 04. SAFETY POWER UAE ERP -->
     <td width="50%" valign="top">
-      <h3>📦 05. Safety Power UAE — Enterprise ERP</h3>
+      <h3>📦 04. Safety Power UAE — Enterprise ERP</h3>
       <p><b>Category:</b> Enterprise ERP · Industrial Supply Chain & Inventory</p>
       <p>A centralized ERP system engineered for <b>Safety Power UAE</b> (an industrial engineering & safety equipment trading company in the UAE) automating the full order-to-delivery lifecycle.</p>
       <ul>
@@ -229,6 +211,28 @@
         <img src="https://img.shields.io/badge/Vue_3_+_Nuxt_+_Pinia-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black" />
         <img src="https://img.shields.io/badge/FastAPI_+_Python-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL_+_Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- 05. LATEST BUILD: LIVE AUDIT PLATFORM (FULL WIDTH) -->
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🛡️ 05. Financial Auditing & Assurance Engine (Latest Build) — <a href="https://audit.afamiasoft.com"><code>audit.afamiasoft.com</code></a></h3>
+      <p><b>Category:</b> AuditTech / Financial Compliance & Statutory Assurance &nbsp;|&nbsp; <b>Status:</b> Live Production Platform</p>
+      <p>My latest enterprise build—an end-to-end <b>Financial Auditing & Assurance Management Platform</b> designed for auditing firms, chartered accountants, and corporate finance teams to automate voucher reconciliation, discrepancy detection, trial balance transformation, and statutory audit compliance across the UAE.</p>
+      <ul>
+        <li><b>Voucher Reconciliation & Discrepancy Detection:</b> Automated cross-examination of general ledgers, journal vouchers, and trial balances with intelligent discrepancy flagging and debit/credit parity verification.</li>
+        <li><b>Automated Trial Balance & Working Paper Workflows:</b> Built structured pipelines (including Python <code>pandas</code> & <code>openpyxl</code> automation) to ingest raw client trial balances, map chart-of-accounts to lead schedules, and generate standardized digital working papers with dynamic total formulas.</li>
+        <li><b>Immutable Ledger Audit Trails & Statutory Statements:</b> Multi-level partner review sign-offs, immutable audit logs, and automated generation of IFRS-compliant Balance Sheets, P&L Statements, Cash Flows, and UAE VAT / Corporate Tax compliance schedules.</li>
+      </ul>
+      <p>
+        <a href="https://audit.afamiasoft.com"><img src="https://img.shields.io/badge/🌐_Launch_Latest_Platform-audit.afamiasoft.com-059669?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Engine-Voucher_Reconciliation_%26_Discrepancy_Detection-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-Trial_Balance_%26_Working_Papers-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Compliance-IFRS_%26_UAE_Tax_Ready-F59E0B?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -246,7 +250,7 @@
     </td>
     <td width="20%" valign="top">
       <h4>02 · Custom ERP & SaaS</h4>
-      <sub>Designing and developing complex corporate portals, dual-mode accounting modules, HRMS platforms, and CRM systems tailored to automate custom business workflows.</sub>
+      <sub>Designing and developing complex corporate portals, dual-mode accounting modules, HRMS platforms, Audit engines, and CRM systems tailored to custom workflows.</sub>
     </td>
     <td width="20%" valign="top">
       <h4>03 · Database & API Architecture</h4>
@@ -257,18 +261,19 @@
       <sub>Integrating AI-assisted workflows, automated invoicing, biometric sync, real-time inventory trackers, and UAE VAT / Labor Law compliance engines.</sub>
     </td>
     <td width="20%" valign="top">
-      <h4>05 · Premium UI/UX Integration</h4>
-      <sub>Translating custom designs into pixel-perfect, responsive interfaces featuring smooth micro-animations (Framer Motion, GSAP) and top-tier client-side speeds.</sub>
+      <h4>05 · VPS & UI/UX Delivery</h4>
+      <sub>Translating custom designs into smooth interfaces (Framer Motion, GSAP) while deploying & securing production workloads on Linux VPS & Docker infrastructure.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Comprehensive Technical Stack
+## 🛠️ Comprehensive Technical Stack, AI Tools & VPS Infrastructure
 
+<!-- FIXED 28-ICON GRID (2 ROWS OF 14 WITH ZERO BLANK SPACES) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,ts,js,redux,tailwind,vuetify,html,css,python,fastapi,django,php,laravel,nodejs,express,mysql,postgres,mongodb,redis,docker,linux,apache,vercel,vite,git,postman&perline=14" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,ts,js,redux,tailwind,vuetify,html,css,python,fastapi,django,php,laravel,nodejs,express,mysql,postgres,mongodb,redis,docker,linux,ubuntu,vercel,vite,git,postman&perline=14" alt="Tech Stack Icons" />
 </div>
 
 <br />
@@ -277,7 +282,7 @@
   <thead>
     <tr>
       <th width="22%" align="left">Layer / Domain</th>
-      <th width="48%" align="left">Technologies & Frameworks</th>
+      <th width="48%" align="left">Technologies, Frameworks & Tools</th>
       <th width="30%" align="left">Architectural Focus</th>
     </tr>
   </thead>
@@ -320,38 +325,45 @@
       <td>High-concurrency RESTful & GraphQL APIs, real-time Socket.IO WebSockets, automated cron daemons, Single Sign-On (SSO), hardware MAC licensing, and multi-role RBAC.</td>
     </tr>
     <tr>
-      <td><b>🗄️ Databases & Caching</b></td>
+      <td><b>🤖 AI-Native Coding & Automation</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCode_AI-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pandas_%26_OpenPyXL-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </td>
+      <td>Autonomous terminal-driven CLI agent workflows, AI-assisted system architecture, intelligent document parsing, automated financial report generation, and Python data pipelines.</td>
+    </tr>
+    <tr>
+      <td><b>🖥️ VPS Server, Cloud & DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux_VPS_Server-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache_Virtual_Hosts-D22128?style=flat-square&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/UFW_Firewall_%26_SSH-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/SSL_%2F_Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </td>
+      <td>End-to-end unmanaged VPS server administration, multi-domain Apache Virtual Host configuration, UFW firewall hardening, server security & malware remediation, and Docker deployments.</td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Databases, Caching & CMS</b></td>
       <td>
         <img src="https://img.shields.io/badge/MySQL_%2F_MariaDB-005C84?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </td>
-      <td>Multi-tenant relational schemas, ACID-compliant double-entry accounting ledgers, strategic indexing, query optimization, and high-speed caching.</td>
-    </tr>
-    <tr>
-      <td><b>☁️ DevOps, Hosting & Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ubuntu_VPS_Hosting-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
-        <img src="https://img.shields.io/badge/Apache_Server-D22128?style=flat-square&logo=apache&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git_%26_Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </td>
-      <td>Containerized Docker deployments, CI/CD automation, unmanaged Hostinger Linux VPS administration, Apache virtual host routing, and UFW server security.</td>
-    </tr>
-    <tr>
-      <td><b>🤖 AI, Automation & CMS</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/AI_Workflow_Automation-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas_%26_OpenPyXL-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/WordPress_%26_Gutenberg-21759B?style=flat-square&logo=wordpress&logoColor=white" />
         <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git_%26_Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       </td>
-      <td>AI-powered document processing & smart reporting, Python Excel/Trial Balance automation scripts, custom PHP WordPress themes/plugins, and WooCommerce platforms.</td>
+      <td>Multi-tenant relational schemas, ACID-compliant double-entry accounting ledgers, query indexing, Redis caching, and custom WordPress/WooCommerce plugin architecture.</td>
     </tr>
   </tbody>
 </table>
@@ -370,13 +382,13 @@
       <img src="https://img.shields.io/badge/Current_Role-10B981?style=flat-square" />
     </td>
     <td width="70%" valign="top">
-      <p>Architecting and building full-stack enterprise business applications across the UAE using <b>React 19, TypeScript, Ant Design, and Redux Toolkit</b> for dynamic frontend SPAs, and <b>PHP, Python & MySQL</b> for high-performance backend REST APIs.</p>
+      <p>Architecting, deploying, and administering full-stack enterprise business applications across the UAE using <b>React 19, TypeScript, Ant Design, and Redux Toolkit</b> for dynamic frontend SPAs, and <b>PHP, Python & MySQL</b> for high-performance backend REST APIs.</p>
       <ul>
         <li><b>Perpetual & Service Accounting ERPs (<a href="https://afamia.afamiasoft.com">afamia.afamiasoft.com</a>):</b> Architected and deployed full-scale Accounting ERPs tailored for product-based (GRN, Delivery Notes, Stock Reconciliation, Valuation), service-based (zero-inventory), and specialized garage businesses—incorporating complete AP/AR aging, multi-currency (AED) billing, and built-in UAE VAT/tax compliance reporting.</li>
         <li><b>Enterprise HRMS & Payroll Platform (<a href="https://hrbmc.afamiasoft.com">hrbmc.afamiasoft.com</a>):</b> Designed and built a comprehensive HRMS platform from the ground up, automating employee directories, biometric attendance tracking, absence approval workflows, performance metrics, automated document expiry cron alerts (Visa, Emirates ID, Passport), and UAE Labor Law payroll & End-of-Service (EOS) gratuity calculations.</li>
+        <li><b>Next-Gen Real-Time CRM Platform (<a href="https://crm.afamiasoft.com">crm.afamiasoft.com</a>):</b> Developed a dynamic, high-performance CRM SPA featuring interactive Kanban-style sales pipelines, Socket.IO real-time notifications, Recharts sales analytics, Arabic/English (i18next) localization, and client-side PDF/Excel reporting.</li>
         <li><b>Financial Auditing Engine (<a href="https://audit.afamiasoft.com">audit.afamiasoft.com</a>):</b> Engineered an enterprise auditing platform featuring automated trial balance ingestion, voucher reconciliation, discrepancy detection, working paper workflows, and immutable ledger audit trails.</li>
-        <li><b>Next-Gen CRM Platform:</b> Developed a dynamic, high-performance CRM SPA featuring interactive Kanban-style sales pipelines, Socket.IO real-time notifications, Recharts sales analytics, Arabic/English (i18next) localization, and client-side PDF/Excel reporting.</li>
-        <li><b>Security, SSO & AI Automation:</b> Implemented Single Sign-On (SSO) authentication, hardware MAC address license activation, Python (<code>pandas</code>/<code>openpyxl</code>) financial transformation pipelines, and AI-powered document & reporting workflows.</li>
+        <li><b>VPS Server Infrastructure, Security & AI Automation:</b> Administered production Linux Ubuntu VPS servers, configured multi-subdomain Apache Virtual Hosts, hardened UFW firewalls, implemented Single Sign-On (SSO) & hardware MAC license activation, and built Python (<code>pandas</code>/<code>openpyxl</code>) & AI-driven automation workflows.</li>
       </ul>
     </td>
   </tr>
@@ -448,8 +460,8 @@
       <p>Crafting intuitive, high-density enterprise dashboards and responsive interfaces using Ant Design, Vuetify, Tailwind CSS, and smooth micro-interactions (Framer Motion & GSAP).</p>
     </td>
     <td width="25%" valign="top">
-      <h3>04 · Full-Stack Build</h3>
-      <p>Transforming the blueprint into a production-ready application with high-concurrency backends, real-time WebSockets, automated cron pipelines, and containerized VPS/cloud deployment.</p>
+      <h3>04 · Full-Stack & VPS Build</h3>
+      <p>Transforming the blueprint into production software using AI-accelerated workflows, high-concurrency APIs, real-time WebSockets, and hardened Linux VPS / Docker deployments.</p>
     </td>
   </tr>
 </table>
@@ -564,4 +576,21 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=mhd-lasin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161186136%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mhd-lasin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161186136%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=mhd-lasin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161186136%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Muhamed Lasin
+    <img src="https://www.gitskins.com/api/section/heatmap?username=mhd-lasin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161186136%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Muhamed Lasin contribution activity" />
+  </picture>
+</p>
+
+</div>
+
+---
+
+## 🤝 Say Hello — Let's Connect & Build
+
+<table width="100%">
+  <tr>
+    <td width="62%" valign="middle">
+      <h3>Ready to Build Something Impactful?</h3>
+      <p>Whether you're looking to architect a custom <b>Enterprise ERP, HRMS, Real-Time CRM, or Audit Engine</b>, scale a high-concurrency <b>React 19 / Vue 3 / FastAPI / PHP / Laravel</b> platform, manage production <b>Linux VPS infrastructure</b>, or bring on a seasoned <b>Full-Stack Developer in Dubai, UAE</b>—I'm always happy to connect!</p>
+      <ul>
+        <li>📧 <b>Email:</b> <a href="mailto:lasinthangal4@gmail.com">lasinthangal4@gmail.com</a></li>
+        <li>📱 <b>Mobile / WhatsApp:</b> <a href="
